@@ -158,4 +158,4 @@ React functional component, including how to
 [CodeSandbox]: https://codesandbox.io
 [JS expression]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#expressions
 [ES6 imports]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
-[Flexbox]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[Flexbox]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/# function-components-JSX-practice
